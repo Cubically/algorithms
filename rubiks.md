@@ -17,7 +17,7 @@ Useful Rubik's cube algorithms:
 Found by: @TehPers  
 Significance: Top face value is 1
 
-### 
+### U3D1R3L1F3B1U1D3
 
        242
        202
