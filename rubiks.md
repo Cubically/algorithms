@@ -29,5 +29,5 @@ Significance: Top face value is 1
        454
        424
 
-Found by: @aaronryank
+Found by: @aaronryank  
 Significance: Left face value is 1
