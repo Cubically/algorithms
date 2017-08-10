@@ -1,5 +1,3 @@
-Useful Rubik's cube algorithms:
-
 # 3x3x3
 
 ### R3D1R1
