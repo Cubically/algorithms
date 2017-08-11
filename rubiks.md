@@ -29,3 +29,8 @@ Significance: Top face value is 1
 
 Found by: @aaronryank  
 Significance: Left face value is 1
+
+### U1R3U1F3D2
+
+Found by: ?
+Significance: Has a period of 1260, the highest period a 3x3 cube can have for any given set of rotations.
