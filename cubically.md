@@ -17,7 +17,7 @@ Significance: Decrements the notepad by 1 as long as the left face is nonzero
 
 ### Increment notepad by 1
 
-    *1-1/1
+    *1+1/1
 
 Found by: MD XF (kind of)  
 Significance: Increments the notepad by 1 as long as the left face is nonzero
