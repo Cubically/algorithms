@@ -21,3 +21,10 @@ Significance: Decrements the notepad by 1 as long as the left face is nonzero
 
 Found by: MD XF (kind of)  
 Significance: Increments the notepad by 1 as long as the left face is nonzero
+
+### Loop 5 times
+
+    RLUD'RLUD'( RLUD'RLUD')8
+
+Found by: MD XF  
+Significance: Loops 5 times. Removing the second `RLUD'` within the loop loops 10 times. (These are hard to do without the notepad.)
