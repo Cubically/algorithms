@@ -17,6 +17,8 @@ Please contribute algorithms in the following format:
     Found by: @YourGithub (or Your Name)
     Significance: Why your algorithm is useful
 
+# Snippets
+
 Please contribute Cubically snippets in the following format:
 
     # Description
@@ -26,3 +28,7 @@ Please contribute Cubically snippets in the following format:
     Found by: @YourGithub (or Your Name)
     Significance: why your snippet is useful
     Example: `cubically code example` -> what it does
+
+# Periods
+
+Please contribute algorithms with notable periods simply by adding to the existing table. If an algorithm is found to have the same period as one in the table, but is smaller in quarter turn notation, please remove the old one and add that instead.
