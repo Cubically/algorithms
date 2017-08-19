@@ -1,7 +1,7 @@
 # Face values
 
 |Face|Value|Algorithm|
-|-|-|
+|-|-|-|
 |0|1|`R'DR`|
 |0|2|`D'R'DR`|
 |0|3|`R'D'R`|
