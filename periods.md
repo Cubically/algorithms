@@ -9,7 +9,7 @@
 |`LUL'U`|5|
 |`RLUD`|6|
 |`LUL'F`|7|
-|`UDL'R'FUDL'R'FUDL'R'F`|8|
+|`RUUL`|8|
 |`RUBR`|9|
 |`LUL'B`|10|
 |`RLUD'`|12|
